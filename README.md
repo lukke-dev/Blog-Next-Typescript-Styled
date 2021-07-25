@@ -1,2 +1,2 @@
-# static active : http://blognextjs.lucasdev.fun/
+# static active : https://blognextjs.lucasdev.fun/
 
