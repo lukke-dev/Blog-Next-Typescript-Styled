@@ -6,3 +6,10 @@ export const Container = styled.div`
   gap: 3rem;
   margin: 0 10%;
 `;
+
+export const Category = styled.div`
+  text-align: center;
+  font-size: ${({ theme }) => theme.font.sizes.large};
+  font-weight: bold;
+  padding: ${({ theme }) => theme.spacings.medium}; ;
+`;
